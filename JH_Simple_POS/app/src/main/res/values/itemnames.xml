@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="item01">Diet Soda</string>
+    <string name="item02">Regular Soda</string>
+    <string name="item03">Banana</string>
+    <string name="item04">Apple</string>
+    <string name="item05">Juice</string>
+    <string name="item06">Chips</string>
+    <string name="item07">Baked Chips</string>
+    <string name="item08">White Bread</string>
+    <string name="item09">Wheat Bread</string>
+    <string name="item10">Healthy Cereal</string>
+    <string name="item11">Sugary Cereal</string>
+    <string name="item12">Frozen Veggies</string>
+    <string name="item13">Whole Milk</string>
+    <string name="item14">Low-fat Milk</string>
+
+    <string name="item01sub">(Diet Coke, Diet Pepsi)</string>
+    <string name="item02sub">(Coke, Pepsi)</string>
+    <string name="item03sub" />
+    <string name="item04sub"/>
+    <string name="item05sub">(V8, Ocean Spray)</string>
+    <string name="item06sub">(Lays, Doritos)</string>
+    <string name="item07sub">(Lays, Utz)</string>
+    <string name="item08sub">(Hauswalds, Schmidt)</string>
+    <string name="item09sub">(Schmidt Old Tyme)</string>
+    <string name="item10sub">(Cheerios, Chex)</string>
+    <string name="item11sub">(Frosted Flakes)</string>
+    <string name="item12sub">(Hanover, Weis)</string>
+    <string name="item13sub">(Harrisburg, Rutters)</string>
+    <string name="item14sub">(Harrisburg, Rutters)</string>
+
+
+</resources>
